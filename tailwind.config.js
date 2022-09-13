@@ -7,6 +7,8 @@ module.exports = {
         'hijau': '#00f748',
         'gray': '#cfcfcf',    
         'white': '#F8FAFC',
+        'background': '#fcfcfc',
+        'card': '#f1f1f1',
       }
     },
     fontFamily: {
